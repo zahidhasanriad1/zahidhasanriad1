@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zahidhasanriad1
+- 👋 Assalamualikum, I’m @zahidhasanriad1
 - 👀 I’m interested in Web Development, Machine Learning, Data Science and Cyber Security.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
