@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development, Machine Learning, Data Science and Cyber Security.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me in/zahidhasanriad
+- https://shorturl.at/ntyU0
 
 <!---
 zahidhasanriad1/zahidhasanriad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
