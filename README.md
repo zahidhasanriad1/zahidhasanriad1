@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/zahidhasariad" target="blank"><img src="https://img.shields.io/twitter/follow/zahidhasariad?logo=twitter&style=for-the-badge" alt="zahidhasariad" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning and Data Science.**
+- 🌱 I’m currently learning **actively pursuing knowledge in Machine Learning and Data Science.**
 
 - 💬 Ask me about **Machine Learning, Data Science.**
 
