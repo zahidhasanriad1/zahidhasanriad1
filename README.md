@@ -1,3 +1,4 @@
+![](https://github.com/zahidhasanriad1/zahidhasanriad1/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Md. Zahid Hasan Riad</h1>
 <h3 align="center">Crafting the Future with a Machine Learning Engineer from Bangladesh.</h3>
 
