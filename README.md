@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **actively pursuing knowledge in Machine Learning and Data Science.**
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence Data Science.**
+- 💬 Ask me about **Machine Learning, Artificial Intelligence, and Data Science.**
 
 - 📫 How to reach me **mzhr.riad@gmail.com**
 
