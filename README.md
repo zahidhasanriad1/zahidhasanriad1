@@ -1,6 +1,6 @@
 ![]()
 <h1 align="center">Hi 👋, I'm Md. Zahid Hasan Riad</h1>
-<h3 align="center">Crafting the Future with a Machine Learning Engineer from Bangladesh.</h3>
+<h3 align="center">Crafting the Future with a Data Scientist from Bangladesh.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lceza4wyeg9s0b334j6pfmq0nl2is6elx8zxqt2l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
