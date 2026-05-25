@@ -1,34 +1,79 @@
-![]()
-<h1 align="center">Hi 👋, I'm Md. Zahid Hasan Riad</h1>
-<h3 align="center">Crafting the Future with a Data Scientist from Bangladesh.</h3>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lceza4wyeg9s0b334j6pfmq0nl2is6elx8zxqt2l&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<h2>Hey there! I'm Md. Zahid Hasan Riad</h2>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+🎓 &nbsp;I am a Computer Science researcher and a prospective PhD applicant. \
+👀 &nbsp;I’m interested in Deep Learning, Computer Vision, NLP, Machine Learning, Generative AI, Large Language Models, and Document Intelligence. \
+🌱 &nbsp;I'm currently building my research profile around SkySeaLand Dataset, SkyDet, object detection and classification, 3D Medical Image classification,Healthcare AI, Bengali NLP, Vision Language Models, and Cloud-based AI systems. \
+💼 &nbsp;I work as a Software Engineer focused on .NET backend development, Financial ERP systems. \
+💬 &nbsp;I'm looking to collaborate on AI, ML, Deep Learning, Computer Vision, Dataset Creation, Document AI, and research-oriented software projects. \
+✉️ &nbsp;How to reach me: email: mzhr.riad@gmail.com
+
+<img align="right" alt="Coding GIF" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lceza4wyeg9s0b334j6pfmq0nl2is6elx8zxqt2l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="420" height="270" />
+
+### Languages
+
+![CSharp](https://img.shields.io/badge/C%23-000?&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/SQL-000?&logo=MySQL)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/C-000?&logo=C)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidhasanriad1&label=Profile%20views&color=0e75b6&style=flat" alt="zahidhasanriad1" /> </p>
+### AI and Research Stack
 
-<p align="left"> <a href="https://twitter.com/zahidhasariad" target="blank"><img src="https://img.shields.io/twitter/follow/zahidhasariad?logo=twitter&style=for-the-badge" alt="zahidhasariad" /></a> </p>
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000?&logo=pytorch)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?&logo=TensorFlow)
+![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-000?&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-000?&logo=OpenCV)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000?&logo=huggingface)
+![OCR](https://img.shields.io/badge/OCR-000?&logo=googledocs)
+![RAG](https://img.shields.io/badge/RAG-000?&logo=openai)
+![NLP](https://img.shields.io/badge/NLP-000?&logo=googlegemini)
 
-- 🌱 I’m currently learning **actively pursuing knowledge in Machine Learning, Artificial Intelligence, and Data Science.**
+### Technologies
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, and Data Science.**
+![DotNet](https://img.shields.io/badge/.NET-000?&logo=dotnet&logoColor=512BD4)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-000?&logo=dotnet&logoColor=512BD4)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-000?&logo=dotnet&logoColor=512BD4)
+![Angular](https://img.shields.io/badge/Angular-000?&logo=Angular&logoColor=DD0031)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?&logo=FastAPI)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?&logo=PostgreSQL)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-000?&logo=microsoftsqlserver)
+![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/Linux-000?&logo=Linux)
+![Git](https://img.shields.io/badge/Git-000?&logo=Git)
 
-- 📫 How to reach me **mzhr.riad@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+### My Research Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zahidhasariad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahidhasariad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zahidhasanriad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahidhasanriad" height="30" width="40" /></a>
-<a href="https://fb.com/mdzahidhasanriad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdzahidhasanriad" height="30" width="40" /></a>
+[![](https://img.shields.io/badge/SkyDet%20Deep%20Learning%20Model-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/SkySeaLand%20Dataset-000)](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand)
+[![](https://img.shields.io/badge/Object%20Detection-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/Computer%20Vision-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/Applied%20AI-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/Bengali%20NLP-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/Healthcare%20AI-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/Document%20Intelligence-000)](https://github.com/zahidhasanriad1)
+
+### Featured Work
+
+[![](https://img.shields.io/badge/SkySeaLand%20Dataset-Aerial%20Object%20Detection-000)](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand)
+[![](https://img.shields.io/badge/SkyDet-Lightweight%20Deep%20Learning%20Detector-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/AI%20Document%20Assistant-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/OCR%20Vision%20API-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/RAG%20Chatbot-000)](https://github.com/zahidhasanriad1)
+[![](https://img.shields.io/badge/Enterprise%20.NET%20Systems-000)](https://github.com/zahidhasanriad1)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/zahidhasanriad1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zahidhasanriad1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zahidhasanriad1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidhasanriad1&show_icons=true&locale=en&layout=compact" alt="zahidhasanriad1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahidhasanriad1&show_icons=true&locale=en" alt="zahidhasanriad1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidhasanriad1&" alt="zahidhasanriad1" /></p>
