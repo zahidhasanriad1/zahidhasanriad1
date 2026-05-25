@@ -6,7 +6,7 @@
 
 🎓 &nbsp;I am a Computer Science researcher and a prospective PhD applicant. \
 👀 &nbsp;I’m interested in Deep Learning, Computer Vision, NLP, Machine Learning, Generative AI, Large Language Models, and Document Intelligence. \
-🌱 &nbsp;I'm currently building my research profile around SkySeaLand Dataset, SkyDet, object detection and classification, 3D Medical Image classification,Healthcare AI, Bengali NLP, Vision Language Models, and Cloud-based AI systems. \
+🌱 &nbsp;I'm currently building my research profile around the SkySeaLand Dataset, SkyDet, object detection and classification, 3D Medical Image classification, Healthcare AI, Bengali NLP, Vision-Language Models, and Cloud-based AI systems. \
 💼 &nbsp;I work as a Software Engineer focused on .NET backend development, Financial ERP systems. \
 💬 &nbsp;I'm looking to collaborate on AI, ML, Deep Learning, Computer Vision, Dataset Creation, Document AI, and research-oriented software projects. \
 ✉️ &nbsp;How to reach me: email: mzhr.riad@gmail.com
@@ -47,18 +47,6 @@
 ![Docker](https://img.shields.io/badge/Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/Git-000?&logo=Git)
-
-
-### My Research Focus
-
-[![](https://img.shields.io/badge/SkyDet%20Deep%20Learning%20Model-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/SkySeaLand%20Dataset-000)](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand)
-[![](https://img.shields.io/badge/Object%20Detection-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/Computer%20Vision-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/Applied%20AI-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/Bengali%20NLP-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/Healthcare%20AI-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/Document%20Intelligence-000)](https://github.com/zahidhasanriad1)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
