@@ -73,4 +73,4 @@
 
 
 
-🌱 &nbsp;I'm currently building my research profile around the SkySeaLand Dataset, SkyDet, object detection and classification, 3D Medical Image classification, Healthcare AI, Bengali NLP, Vision-Language Models, and Cloud-based AI systems. \
+🌱 &nbsp;I'm currently building my research profile around the SkySeaLand Dataset, SkyDet, object detection and classification, 3D Medical Image classification, Healthcare AI, Bengali NLP, Vision-Language Models, and Cloud-based AI systems. 
