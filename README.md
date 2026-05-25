@@ -60,14 +60,6 @@
 [![](https://img.shields.io/badge/Healthcare%20AI-000)](https://github.com/zahidhasanriad1)
 [![](https://img.shields.io/badge/Document%20Intelligence-000)](https://github.com/zahidhasanriad1)
 
-### Featured Work
-
-[![](https://img.shields.io/badge/SkySeaLand%20Dataset-Aerial%20Object%20Detection-000)](https://www.kaggle.com/datasets/mdzahidhasanriad/skysealand)
-[![](https://img.shields.io/badge/SkyDet-Lightweight%20Deep%20Learning%20Detector-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/AI%20Document%20Assistant-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/OCR%20Vision%20API-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/RAG%20Chatbot-000)](https://github.com/zahidhasanriad1)
-[![](https://img.shields.io/badge/Enterprise%20.NET%20Systems-000)](https://github.com/zahidhasanriad1)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -77,3 +69,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zahidhasanriad1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+
+
+🌱 &nbsp;I'm currently building my research profile around the SkySeaLand Dataset, SkyDet, object detection and classification, 3D Medical Image classification, Healthcare AI, Bengali NLP, Vision-Language Models, and Cloud-based AI systems. \
