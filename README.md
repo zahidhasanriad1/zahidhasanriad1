@@ -1,38 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0f172a,65:1d4ed8,100:7c3aed&text=Md.%20Zahid%20Hasan%20Riad&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=AI%20Researcher%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Prospective%20PhD%20Applicant&descAlignY=60&descSize=15&animation=fadeIn" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0f172a,65:1d4ed8,100:7c3aed&text=Md.%20Zahid%20Hasan%20Riad&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=AI%20Researcher%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Prospective%20PhD%20Applicant&descAlignY=60&descSize=15&animation=fadeIn" alt="Profile banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+practical+AI+systems;Designing+secure+backend+services;Turning+research+into+real+software;Creating+scalable+and+useful+applications" alt="Typing SVG" />
-
-# Md. Zahid Hasan Riad
-
-### AI Researcher | Software Engineer | Prospective PhD Applicant
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+practical+AI+systems;Designing+secure+backend+services;Turning+research+into+real+software;Creating+scalable+and+useful+applications" alt="Typing introduction" />
 
 <p>
-I work across AI research, machine learning experimentation, and software engineering. I build systems that connect research, development, and deployment.
+I work across artificial intelligence research, machine learning experimentation, and software engineering. My goal is to transform research ideas into reliable systems that create measurable academic and industrial value.
 </p>
 
 <p>
 <a href="mailto:mzh.riad@gmail.com"><img src="https://img.shields.io/badge/Email-mzh.riad%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/zahid-hasan-riad"><img src="https://img.shields.io/badge/LinkedIn-zahid%20hasan%20riad-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-<a href="https://scholar.google.com/citations?user=elsXkRAAAAAJ&hl=en">
-  <img src="https://img.shields.io/badge/Google_Scholar-ZahidHasanRiad-0F172A?style=for-the-badge&logo=googlescholar&logoColor=22C55E" alt="Google Scholar" />
-</a>
-
+<a href="https://github.com/zahidhasanriad1"><img src="https://img.shields.io/badge/GitHub-zahidhasanriad1-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="https://scholar.google.com/citations?user=elsXkRAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Zahid%20Hasan%20Riad-0F172A?style=for-the-badge&logo=googlescholar&logoColor=22C55E" alt="Google Scholar" /></a>
+<a href="https://www.researchgate.net/profile/Zahid-Hasan-Riad"><img src="https://img.shields.io/badge/ResearchGate-Zahid%20Hasan%20Riad-0F172A?style=for-the-badge&logo=researchgate&logoColor=22C55E" alt="ResearchGate" /></a>
+</p>
 
 </div>
 
 ---
 
-## Core Profile
+## Core Expertise
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Research
 
-<img src="https://img.shields.io/badge/RESEARCH-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Research" />
+<img src="https://img.shields.io/badge/RESEARCH-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF" alt="Research" />
 
 <br /><br />
 
@@ -44,11 +40,11 @@ I work across AI research, machine learning experimentation, and software engine
 * Vision Language Models
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Engineering
 
-<img src="https://img.shields.io/badge/ENGINEERING-0284C7?style=for-the-badge&logo=dotnet&logoColor=white" alt="Engineering" />
+<img src="https://img.shields.io/badge/ENGINEERING-0284C7?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" alt="Engineering" />
 
 <br /><br />
 
@@ -60,27 +56,12 @@ I work across AI research, machine learning experimentation, and software engine
 * Cloud Services
 
 </td>
-<td width="33%" valign="top">
-
-### Building
-
-<img src="https://img.shields.io/badge/BUILDING-16A34A?style=for-the-badge&logo=rocket&logoColor=white" alt="Building" />
-
-<br /><br />
-
-* SkySeaLand Dataset
-* SkyDet Model
-* AxonWrite
-* AI APIs
-* Research Tools
-* Cloud AI Systems
-
-</td>
 </tr>
 </table>
 
 ---
-# Research and Industry Workflow
+
+## Research and Industry Workflow
 
 <div align="center">
 
@@ -160,7 +141,7 @@ flowchart LR
     class H impact;
 ```
 
-## Workflow Logic
+### Workflow Logic
 
 | Phase | Research Responsibility | Industry Responsibility | Main Output |
 |---|---|---|---|
@@ -170,84 +151,57 @@ flowchart LR
 | Validation | Verify accuracy and research quality | Verify reliability, security, and usability | Pilot ready system |
 | Deployment | Document findings and limitations | Deploy and monitor the system | Production solution |
 | Improvement | Refine the model using evidence | Improve the system using operational feedback | Research and business impact |
-## Research, Development and Deployment Pipeline
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AI Research Pipeline
-
-1. Problem identification.
-2. Dataset design and collection.
-3. Model design and development.
-4. Evaluation and benchmarking.
-5. Explainability and analysis.
-6. Research paper and documentation.
-7. AI system deployment.
-
-</td>
-<td width="50%" valign="top">
-
-### Software Engineering Pipeline
-
-1. Requirements analysis.
-2. System design and architecture.
-3. Backend development.
-4. Database design.
-5. Testing and quality assurance.
-6. Deployment and DevOps.
-7. Monitoring and maintenance.
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## Tech Stack
 
 ### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,cs,ts,js,c" alt="Languages" />
 </p>
 
 ### AI, Machine Learning and Data
+
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI tools" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
+<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="Scikit Learn" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
-<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge&logo=googlegemini&logoColor=white" alt="NLP" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="RAG" />
+<img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF" alt="NLP" />
 <img src="https://img.shields.io/badge/Transformers-FACC15?style=for-the-badge&logo=huggingface&logoColor=111827" alt="Transformers" />
 </p>
 
 ### Backend and Frameworks
+
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,fastapi" alt="Backend and frameworks" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/REST%20APIs-0284C7?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/REST%20APIs-0284C7?style=for-the-badge&logo=swagger&logoColor=FFFFFF" alt="REST APIs" />
 </p>
 
 ### Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=FFFFFF" alt="SQL Server" />
 </p>
 
 ### DevOps and Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" alt="DevOps and Tools" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" alt="DevOps and tools" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/CI%20CD-0EA5E9?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI CD" />
+<img src="https://img.shields.io/badge/CI%20CD-0EA5E9?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" alt="CI CD" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=111827" alt="Swagger" />
 </p>
 
@@ -273,8 +227,8 @@ flowchart LR
 
 * AxonWrite
 * Cloud AI Systems
-* Backend services
-* Production ready application workflows
+* Backend Services
+* Production Application Workflows
 
 </td>
 </tr>
@@ -291,7 +245,7 @@ flowchart LR
 
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahidhasanriad1&theme=github_dark" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahidhasanriad1&theme=github_dark" alt="Repositories by language" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zahidhasanriad1&theme=github_dark&utcOffset=6" alt="Productive time" />
 
 <br />
@@ -302,32 +256,29 @@ flowchart LR
 
 ---
 
-## Research and Engineering Focus
+## Current Goals
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### Research Direction
+### Research Quality
 
-* Computer vision and object detection
-* Medical AI and clinical intelligence
-* Vision language systems
-* Bengali NLP
-* Explainable AI
-* Research automation
+Develop reproducible studies with clear evaluation, explainability, and strong technical documentation.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### Engineering Direction
+### Production Value
 
-* Secure backend systems
-* Enterprise API architecture
-* Data intensive applications
-* AI service integration
-* Container based deployment
-* Maintainable software design
+Convert tested research ideas into secure and reliable systems for real use.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### Collaboration
+
+Work with researchers and engineering teams on meaningful AI and software projects.
 
 </td>
 </tr>
@@ -335,16 +286,7 @@ flowchart LR
 
 ---
 
-## Let Us Connect
-
 <div align="center">
-
-<a href="mailto:mzh.riad@gmail.com"><img src="https://img.shields.io/badge/Email-mzh.riad%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/zahid-hasan-riad"><img src="https://img.shields.io/badge/LinkedIn-zahid%20hasan%20riad-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-<a href="https://github.com/zahidhasanriad1"><img src="https://img.shields.io/badge/GitHub-zahidhasanriad1-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.researchgate.net/profile/Zahid-Hasan-Riad"><img src="https://img.shields.io/badge/ResearchGate-ZahidHasanRiad-0F172A?style=for-the-badge&logo=researchgate&logoColor=22C55E" alt="ResearchGate" /></a>
-
-<br /><br />
 
 <i>Research is to see what everybody else has seen, and to think what nobody else has thought.</i>
 
