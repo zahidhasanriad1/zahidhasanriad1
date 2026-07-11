@@ -6,7 +6,7 @@
 
 # Md. Zahid Hasan Riad
 
-### AI Researcher | Full Stack Developer | Software Engineer | Prospective PhD Applicant
+### AI Researcher | Software Engineer | Prospective PhD Applicant
 
 <p>
 I work across AI research, machine learning experimentation, and software engineering. I build systems that connect research, development, and deployment.
