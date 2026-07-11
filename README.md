@@ -13,8 +13,6 @@ I work across artificial intelligence research, machine learning experimentation
 <a href="https://www.linkedin.com/in/zahid-hasan-riad"><img src="https://img.shields.io/badge/LinkedIn-zahid%20hasan%20riad-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
 <a href="https://github.com/zahidhasanriad1"><img src="https://img.shields.io/badge/GitHub-zahidhasanriad1-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 <a href="https://scholar.google.com/citations?user=elsXkRAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Zahid%20Hasan%20Riad-0F172A?style=for-the-badge&logo=googlescholar&logoColor=22C55E" alt="Google Scholar" /></a>
-<a href="https://www.researchgate.net/profile/Zahid-Hasan-Riad"><img src="https://img.shields.io/badge/ResearchGate-Zahid%20Hasan%20Riad-0F172A?style=for-the-badge&logo=researchgate&logoColor=22C55E" alt="ResearchGate" /></a>
-</p>
 
 </div>
 
@@ -256,37 +254,6 @@ flowchart LR
 
 ---
 
-## Current Goals
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### Research Quality
-
-Develop reproducible studies with clear evaluation, explainability, and strong technical documentation.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### Production Value
-
-Convert tested research ideas into secure and reliable systems for real use.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### Collaboration
-
-Work with researchers and engineering teams on meaningful AI and software projects.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 <i>Research is to see what everybody else has seen, and to think what nobody else has thought.</i>
 
