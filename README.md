@@ -5,7 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+practical+AI+systems;Designing+secure+backend+services;Turning+research+into+real+software;Creating+scalable+and+useful+applications" alt="Typing introduction" />
 
 <p>
-I work across artificial intelligence research, machine learning experimentation, and software engineering. My goal is to transform research ideas into reliable systems that create measurable academic and industrial value.
+I work at the intersection of Al research, machine learning experimentation, and
+full stack software engineering. I build practical Al systems and scalable applications
+that solve real-world problems.
 </p>
 
 <p>
