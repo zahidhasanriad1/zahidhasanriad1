@@ -100,7 +100,7 @@
 
 ## 🔄 SDLC: Research, Development and Deployment Pipeline
 
-mermaid
+```mermaid
 %%{init: {
   "theme": "base",
   "themeVariables": {
@@ -139,7 +139,7 @@ flowchart LR
     class A,B,C,D,E,F research;
     class H,I,J,K,L,M,N,O engineering;
     class G output;
-
+```
 
 ---
 
