@@ -13,6 +13,7 @@ I work across artificial intelligence research, machine learning experimentation
 <a href="https://www.linkedin.com/in/zahid-hasan-riad"><img src="https://img.shields.io/badge/LinkedIn-zahid%20hasan%20riad-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
 <a href="https://github.com/zahidhasanriad1"><img src="https://img.shields.io/badge/GitHub-zahidhasanriad1-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 <a href="https://scholar.google.com/citations?user=elsXkRAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Zahid%20Hasan%20Riad-0F172A?style=for-the-badge&logo=googlescholar&logoColor=22C55E" alt="Google Scholar" /></a>
+</p>
 
 </div>
 
@@ -238,22 +239,23 @@ flowchart LR
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahidhasanriad1&theme=github_dark" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zahidhasanriad1&hide_border=true&background=020617&ring=22C55E&fire=F97316&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahidhasanriad1&theme=github_dark" alt="GitHub profile details" />
 
-<br />
+<br /><br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahidhasanriad1&theme=github_dark" alt="Repositories by language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zahidhasanriad1&theme=github_dark&utcOffset=6" alt="Productive time" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahidhasanriad1&theme=github_dark" alt="GitHub statistics" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zahidhasanriad1&hide_border=true&background=020617&ring=22C55E&fire=F97316&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak" />
 
-<br />
+<br /><br />
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zahidhasanriad1&theme=github_dark" alt="GitHub profile details" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahidhasanriad1&theme=github_dark" alt="Repositories by language" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zahidhasanriad1&theme=github_dark&utcOffset=6" alt="Productive time" />
 
 </div>
 
 ---
 
+<div align="center">
 
 <i>Research is to see what everybody else has seen, and to think what nobody else has thought.</i>
 
