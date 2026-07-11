@@ -1,3 +1,4 @@
+<p><b>Building AI systems that connect research, software engineering, and real world intelligent applications.</b></p>
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 
 <h2>Hey there! I'm Md. Zahid Hasan Riad</h2>
