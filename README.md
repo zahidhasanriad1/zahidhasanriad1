@@ -200,12 +200,12 @@ I work across AI research, machine learning experimentation, and software engine
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zahidhasanriad1&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0&ring_color=22C55E" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zahidhasanriad1&theme=github_dark" alt="GitHub statistics" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zahidhasanriad1&hide_border=true&background=020617&ring=22C55E&fire=F97316&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak" />
 
 <br />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhasanriad1&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0&langs_count=8" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zahidhasanriad1&theme=github_dark" alt="Top languages" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zahidhasanriad1&theme=github_dark&utcOffset=6" alt="Productive time" />
 
 <br />
