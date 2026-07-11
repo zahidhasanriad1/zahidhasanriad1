@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0f172a,65:1d4ed8,100:7c3aed&text=Md.%20Zahid%20Hasan%20Riad&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=AI%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Prospective%20PhD%20Applicant&descAlignY=60&descSize=15&animation=fadeIn" alt="Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0f172a,65:1d4ed8,100:7c3aed&text=Md.%20Zahid%20Hasan%20Riad&fontColor=ffffff&fontSize=48&fontAlignY=37&desc=AI%20Researcher%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Prospective%20PhD%20Applicant&descAlignY=60&descSize=15&animation=fadeIn" alt="Banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+practical+AI+systems;Designing+secure+backend+services;Turning+research+into+real+software;Creating+scalable+and+useful+applications" alt="Typing SVG" />
 
