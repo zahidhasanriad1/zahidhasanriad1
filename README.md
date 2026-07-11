@@ -206,18 +206,6 @@ flowchart LR
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Research and AI Projects
-
-* SkySeaLand Dataset
-* SkyDet Model
-* AI APIs
-* Research Tools
 
 </td>
 <td width="50%" valign="top">
