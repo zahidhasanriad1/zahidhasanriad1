@@ -19,9 +19,6 @@ I work across AI research, machine learning experimentation, and software engine
   <img src="https://img.shields.io/badge/Google_Scholar-ZahidHasanRiad-0F172A?style=for-the-badge&logo=googlescholar&logoColor=22C55E" alt="Google Scholar" />
 </a>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=zahidhasanriad1&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
 
 </div>
 
