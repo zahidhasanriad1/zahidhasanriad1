@@ -14,7 +14,6 @@ I work across AI research, machine learning experimentation, and software engine
 
 <p>
 <a href="mailto:mzh.riad@gmail.com"><img src="https://img.shields.io/badge/Email-mzh.riad%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
-<a href="https://github.com/zahidhasanriad1"><img src="https://img.shields.io/badge/GitHub-zahidhasanriad1-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/zahid-hasan-riad"><img src="https://img.shields.io/badge/LinkedIn-zahid%20hasan%20riad-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
 <a href="https://www.researchgate.net/profile/Zahid-Hasan-Riad"><img src="https://img.shields.io/badge/ResearchGate-ZahidHasanRiad-0F172A?style=for-the-badge&logo=researchgate&logoColor=22C55E" alt="ResearchGate" /></a>
 </p>
