@@ -1,72 +1,64 @@
-<div align="center">
-
-<img src="./Banner.png" alt="Profile Banner" width="100%" />
-
 <br/>
 
-<h1>Hi, I'm Md. Zahid Hasan Riad</h1>
-
-<h3>AI Researcher · Software Engineer · Prospective PhD Applicant</h3>
-
-<p>
-  Building practical AI systems by combining research, machine learning experimentation, and production ready software engineering.
-</p>
-
-<p>
-  <a href="mailto:mzhr.riad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mzhr.riad%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Research-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-111827?style=for-the-badge"/>
-</p>
-
-</div>
-
-<br/>
-
-## About Me
-
-I work at the intersection of **AI research**, **machine learning experimentation**, and **backend software engineering**.  
-My focus areas include **Computer Vision**, **Healthcare AI**, **Bengali NLP**, **Document Intelligence**, **Vision Language Models**, and **Cloud based AI systems**.
-
-<br/>
+## 🧩 Core Profile
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### Research
+<h3>🔬 Research</h3>
 
-Object Detection  
-3D Medical AI  
-Healthcare AI  
-Bengali NLP  
-Document Intelligence  
-Vision Language Models  
-
-</td>
-<td width="33%" align="center">
-
-### Engineering
-
-.NET Backend  
-ASP.NET Core  
-REST APIs  
-Financial ERP  
-Database Systems  
-Cloud Services  
+<p>
+  <img src="https://img.shields.io/badge/Object%20Detection-0F172A?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/3D%20Medical%20AI-0F172A?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Healthcare%20AI-0F172A?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Bengali%20NLP-0F172A?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Document%20Intelligence-0F172A?style=for-the-badge&logo=googledocs&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Vision%20Language%20Models-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### Building
+<h3>⚙️ Engineering</h3>
 
-SkySeaLand Dataset  
-SkyDet Model  
-AxonWrite  
-AI APIs  
-Research Tools  
-Cloud AI Systems  
+<p>
+  <img src="https://img.shields.io/badge/.NET%20Backend-1E3A8A?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-1E3A8A?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/REST%20APIs-1E3A8A?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Financial%20ERP-1E3A8A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Database%20Systems-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Cloud%20Services-1E3A8A?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>🚀 Building</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/SkySeaLand%20Dataset-065F46?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SkyDet%20Model-065F46?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AxonWrite-065F46?style=for-the-badge&logo=openai&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AI%20APIs-065F46?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Research%20Tools-065F46?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Cloud%20AI%20Systems-065F46?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -74,43 +66,40 @@ Cloud AI Systems
 
 <br/>
 
-## Work and Research Flow
+## 🔄 Work and Research Flow
 
-<table>
-<tr>
-<td align="center"><b>Research Problem</b></td>
-<td align="center">➡️</td>
-<td align="center"><b>Dataset Design</b></td>
-<td align="center">➡️</td>
-<td align="center"><b>Model Development</b></td>
-<td align="center">➡️</td>
-<td align="center"><b>Evaluation</b></td>
-<td align="center">➡️</td>
-<td align="center"><b>AI System</b></td>
-</tr>
-<tr>
-<td align="center">Problem framing</td>
-<td></td>
-<td align="center">Data preparation</td>
-<td></td>
-<td align="center">Deep learning models</td>
-<td></td>
-<td align="center">Benchmarking</td>
-<td></td>
-<td align="center">Deployment ready solution</td>
-</tr>
-</table>
+```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "transparent",
+    "primaryColor": "#0F172A",
+    "primaryTextColor": "#FFFFFF",
+    "primaryBorderColor": "#38BDF8",
+    "lineColor": "#38BDF8",
+    "secondaryColor": "#1E3A8A",
+    "tertiaryColor": "#065F46",
+    "fontFamily": "Inter, Segoe UI, Arial"
+  }
+}}%%
 
-<br/>
+flowchart LR
+    A["🔍 Research<br/>Problem"] --> B["📦 Dataset<br/>Design"]
+    B --> C["🧠 Model<br/>Development"]
+    C --> D["📊 Evaluation<br/>Benchmarking"]
+    D --> E["🔎 Explainability<br/>Error Analysis"]
+    E --> F["📄 Research<br/>Paper"]
+    F --> G["🚀 AI System<br/>Deployment"]
 
-## Current Focus
+    H["⚙️ Software<br/>Engineering"] --> I["🔗 Backend<br/>APIs"]
+    I --> J["🗄️ Database<br/>Design"]
+    J --> K["☁️ Cloud<br/>Services"]
+    K --> G
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SkySeaLand%20Dataset-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SkyDet-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Object%20Detection-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Healthcare%20AI-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bengali%20NLP-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Document%20AI-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20AI-000000?style=for-the-badge"/>
-</p>
+    classDef research fill:#0F172A,stroke:#38BDF8,stroke-width:2px,color:#FFFFFF;
+    classDef engineering fill:#1E3A8A,stroke:#93C5FD,stroke-width:2px,color:#FFFFFF;
+    classDef output fill:#065F46,stroke:#5EEAD4,stroke-width:2px,color:#FFFFFF;
+
+    class A,B,C,D,E,F research;
+    class H,I,J,K engineering;
+    class G output;
