@@ -212,13 +212,6 @@ flowchart LR
 </td>
 <td width="50%" valign="top">
 
-### Software and Systems
-
-* AxonWrite
-* Cloud AI Systems
-* Backend Services
-* Production Application Workflows
-
 </td>
 </tr>
 </table>
